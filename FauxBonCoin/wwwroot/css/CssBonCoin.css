@@ -1,0 +1,79 @@
+﻿body {
+    margin:0px
+}
+.navbar {
+    width:100%;
+    background-color:orange;
+}
+.container {
+    width:1200px;
+    margin:auto;
+}
+.navbar .container div {
+    display:inline-block
+}
+.navbar-nav li{
+    display:inline-block;
+    margin:10px
+}
+.navbar-header img {
+    position:absolute;
+    top:15px;
+    width:150px
+}
+.navbar-collapse {
+    margin-left:150px;
+}
+.navbar-collapse a {
+    color:#FFF;
+    text-decoration:none;
+}
+body .navbar-inverse {
+    background-color:orange;
+}
+.logo {
+    width: 100%
+}
+header nav a, .UserInfo {
+    color: #FFF;
+    line-height: 55px;
+    display: inline-block;
+    font-size: 18px;
+}
+header nav a:hover {
+    color: #FFF
+}
+header {
+    height: 62px
+}
+.Inscription .row, .Login .row, .depotAnnonce .row {
+    margin-top: 10px
+}
+.Inscription h2, .Login h2, .depotAnnonce h2 {
+    text-align: center;
+    color: orange;
+}
+.depotAnnonce button {
+    width:100%
+}
+.imgAnnonce img {
+    width:100%
+}
+.titreAnnonce {
+    font-size:16px;
+    font-weight:bold;
+    padding: 5px;
+    background-color:orange;
+    color:#FFF
+}
+.annonce {
+    padding:5px;
+    border:1px solid orange;
+    margin-top:10px
+}
+.filtre .btn {
+    width:100%
+}
+.filtre {
+    padding:5px
+}
